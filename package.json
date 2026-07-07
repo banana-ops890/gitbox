@@ -1,0 +1,12 @@
+{
+  "name": "gitbox",
+  "version": "1.0.0",
+  "description": "GitBox Multi-Tool System",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx servor . index.html 8080 --browse false"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
